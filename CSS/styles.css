@@ -2,22 +2,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@100&family=Playfair+Display&display=swap");
 
 body {
-  background-color: #93a8ac;
+  background-color: #898c8d;
   font-size: 16px;
-  max-width: 1200px;
-  background-color: #a59e8c;
   margin: 0 auto;
-  border: 1em solid #93a8ac;
+  border: 1em solid #496166;
 }
-
+header, main, footer{
+  max-width: 1000px;
+  margin: 10 auto;
+}
 header,
 footer {
   margin: 0.5rem;
+  border: 1px solid #81bbbd;
+  padding: .5rem;
+  background-color: #d7ceb2;
   align-items: center;
   justify-content: center;
-  background-color: #d7ceb2;
   border-radius: 8px;
-  border: 0.5em solid #81bbbd;
+  
   box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
