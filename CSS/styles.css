@@ -11,6 +11,15 @@ body {
   border: 1em solid #93a8ac;
 }
 
+header, footer{
+  align-items: center;
+  justify-content: center;
+  background-color: #d7ceb2;
+  border-radius: 8px;
+  border: 0.5em solid #66635b;
+  box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
 h1 {
   color: #4c5760;
   background-color: #a59e8c;
@@ -124,17 +133,6 @@ a:hover {
 
 .socialmedia {
   padding: 10px;
-}
-
-footer {
-  display: grid;
-  grid-template-columns: 1fr max-content repeat(3, max-content);
-  align-items: center;
-  justify-content: center;
-  background-color: #d7ceb2;
-  border-radius: 8px;
-  border: 0.5em solid #66635b;
-  box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .border {
