@@ -17,7 +17,7 @@ footer {
   justify-content: center;
   background-color: #d7ceb2;
   border-radius: 8px;
-  border: 0.5em solid #66635b;
+  border: 0.5em solid #81bbbd;
   box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
@@ -57,8 +57,8 @@ p {
 }
 
 nav {
-  background-color: #93a8ac;
-  border: 0.5em solid #93a8ac;
+  background-color: #5b8c96;
+  border: 0.5em solid #609174;
   padding: 1em;
   border-radius: 8px;
 }
