@@ -3,9 +3,8 @@
 
 body {
   background-color: #93a8ac;
-}
+  font-size:16px;
 
-#content {
   max-width: 1200px;
   background-color: #a59e8c;
   margin: 0 auto;
@@ -21,11 +20,7 @@ h1 {
   text-align: center;
   padding: 10px;
 }
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2, h3, h4, h5, h6 {
   color: #4c5760;
   background-color: #a59e8c;
   font-family: "Playfair Display", serif;
@@ -54,25 +49,24 @@ nav {
   border-radius: 8px;
 }
 
-nav a {
+a {
   color: #d7ceb2;
   text-decoration: none;
   padding: 0.5em 0.5em;
   line-height: 1.75em;
 }
 
-nav li {
+li {
   display: inline;
   font-family: "Playfair Display", Helvetica, Cursive;
   font-size: 1.45em;
 }
-
-nav ul {
+ul {
   margin: 0;
   list-style: none;
 }
 
-nav a:hover {
+a:hover {
   background-color: #93a8ac;
   color: #0c3c59;
 }
