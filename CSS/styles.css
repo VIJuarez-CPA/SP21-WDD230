@@ -3,16 +3,16 @@
 
 body {
   background-color: #93a8ac;
-  font-size:16px;
-
+  font-size: 16px;
   max-width: 1200px;
   background-color: #a59e8c;
   margin: 0 auto;
   border: 1em solid #93a8ac;
 }
 
-header, footer{
-  margin: .5rem;
+header,
+footer {
+  margin: 0.5rem;
   align-items: center;
   justify-content: center;
   background-color: #d7ceb2;
@@ -30,7 +30,11 @@ h1 {
   text-align: center;
   padding: 10px;
 }
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #4c5760;
   background-color: #a59e8c;
   font-family: "Playfair Display", serif;
@@ -93,8 +97,8 @@ a:hover {
 }
 
 .home-right-img {
-  height:300px;
-  width:200px;
+  height: 300px;
+  width: 200px;
   object-fit: scale-down;
   border-radius: 5px;
   grid-column: 4/6;
