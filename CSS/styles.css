@@ -27,6 +27,8 @@ footer {
 
 header img{
   float: right;
+  height: 300;
+  width: auto;
 }
 
 h1 {
