@@ -89,8 +89,7 @@ nav a:hover {
 }
 
 .home-right-img {
-  height: 350px;
-  width: 300px;
+  object-fit: fill;
   border-radius: 5px;
   grid-column: 4/6;
   grid-row: 1/3;
