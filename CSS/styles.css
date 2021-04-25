@@ -12,6 +12,7 @@ body {
 }
 
 header, footer{
+  margin: .5rem;
   align-items: center;
   justify-content: center;
   background-color: #d7ceb2;
