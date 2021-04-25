@@ -36,31 +36,7 @@ h1 {
   text-align: center;
   padding: 10px;
 }
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #4c5760;
-  background-color: #a59e8c;
-  font-family: "Playfair Display", serif;
-  font-size: 2rem;
-  line-height: 1.1rem;
-  text-align: center;
-  padding: 10px;
-  border-radius: 8px;
-}
 
-p {
-  background-color: #d7ceb2;
-  font-family: "Montserrat", sans-serif;
-  border: 0.5em solid #66635b;
-  font-size: 1.25rem;
-  line-height: 1.5erm;
-  padding: 10px;
-  border-radius: 8px;
-  text-align: justify;
-}
 a {
   color: #d7ceb2;
   text-decoration: none;
@@ -82,27 +58,6 @@ a:hover {
   color: #0c3c59;
 }
 
-.logo {
-  width: 150px;
-  border-radius: 50%;
-}
-
-.banner {
-  width: 100%;
-  border-radius: 8px;
-  column-span: 2;
-}
-
-.home-right-img {
-  height: 300px;
-  width: 200px;
-  object-fit: scale-down;
-  border-radius: 5px;
-  margin: 50px 15px 15px 100px;
-  box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
-  float: right;
-}
-
 .info {
   color: #0c3c59;
   border: none;
@@ -113,10 +68,4 @@ a:hover {
   border: 1em solid black;
   width: 500px;
   height: 375px;
-}
-
-.home-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 1em;
 }
