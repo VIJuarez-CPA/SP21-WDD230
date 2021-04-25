@@ -7,10 +7,12 @@ body {
   margin: 0 auto;
   border: 1em solid #496166;
 }
+
 header, main, footer{
   max-width: 1000px;
   margin: 10 auto;
 }
+
 header,
 footer {
   margin: 0.5rem;
@@ -30,7 +32,7 @@ header img{
 h1 {
   color: #4c5760;
   background-color: #a59e8c;
-  font-family: "Great Vibes", cursive;
+  font-family: "Great Vibes", sans-serif;
   font-size: 3rem;
   line-height: 1.1rem;
   text-align: center;
