@@ -61,14 +61,6 @@ p {
   border-radius: 8px;
   text-align: justify;
 }
-
-nav {
-  background-color: #5b8c96;
-  border: 0.5em solid #609174;
-  padding: 1em;
-  border-radius: 8px;
-}
-
 a {
   color: #d7ceb2;
   text-decoration: none;
@@ -77,7 +69,6 @@ a {
 }
 
 li {
-  display: inline;
   font-family: "Playfair Display", Helvetica, Cursive;
   font-size: 1.45em;
 }
