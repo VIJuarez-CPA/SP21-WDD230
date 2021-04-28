@@ -4,18 +4,16 @@
 body {
   background-color: #92804e;
   font-size: 16px;
-  margin: 0 auto;
+  margin: 0px auto;
   border: 1em solid #20474e;
 }
 
 header, main, footer{
-  max-width: auto;
-  margin: 10 auto;
+  max-width: 1000px;
 }
 
 header,
 footer {
-  margin: 0.5rem;
   border: 1px solid #81bbbd;
   padding: .5rem;
   background-color: #d7ceb2;
