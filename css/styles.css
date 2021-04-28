@@ -15,7 +15,6 @@ header, main, footer{
 header,
 footer {
   border: 1px solid #81bbbd;
-  Border-width: 1000px;
   padding: .5rem;
   background-color: #d7ceb2;
   align-items: center;
