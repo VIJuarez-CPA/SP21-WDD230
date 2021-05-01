@@ -1,6 +1,4 @@
 // Update the copyright year
-document.queryselector('#year').textContent = new Date().getFullYear();
+document.queryselector("#year").textContent = new Date().getFullYear();
 // Provide the last Modified Date
-document.getElementById('update').textContent = document.lastModified;
-
-
+document.getElementById("update").textContent = document.lastModified;

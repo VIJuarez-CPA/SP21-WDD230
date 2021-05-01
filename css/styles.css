@@ -1,18 +1,19 @@
-
 body {
   background-color: #92804e;
   font-size: 16px;
   margin: 0px auto;
 }
 
-header, main, footer{
+header,
+main,
+footer {
   max-width: 1000px;
 }
 
 header,
 footer {
   border: 1px solid #81bbbd;
-  padding: .5rem;
+  padding: 0.5rem;
   background-color: #d7ceb2;
   align-items: center;
   justify-content: center;
@@ -20,7 +21,7 @@ footer {
   box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-header img{
+header img {
   float: right;
   width: 200px;
   height: 300px;
@@ -52,7 +53,7 @@ li {
 ul {
   margin: 0;
   list-style: none;
-  color:#b48e8e;
+  color: #b48e8e;
 }
 a {
   color: #000000;
