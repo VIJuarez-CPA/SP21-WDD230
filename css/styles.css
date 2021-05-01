@@ -62,12 +62,6 @@ a:hover {
   color: #0c3c59;
 }
 
-.info {
-  color: #0c3c59;
-  border: none;
-  background-color: none;
-}
-
 .border {
   border: 1em solid black;
   width: 500px;
