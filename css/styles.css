@@ -1,5 +1,3 @@
-/* Fonts from Google Fonts - more at https://fonts.google.com */
-@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@100&family=Playfair+Display&display=swap");
 
 body {
   background-color: #92804e;
@@ -32,7 +30,7 @@ header img{
 h1 {
   color: #4c5760;
   background-color: #d7ceb2;
-  font-family: "Great Vibes", sans-serif;
+  font-family: "Im Fell Great Primer", sans-serif;
   font-size: 3rem;
   line-height: 1.1rem;
   text-align: center;
@@ -47,7 +45,7 @@ a {
 }
 
 li {
-  font-family: "Playfair Display", Helvetica, Cursive;
+  font-family: "Montserrat", Helvetica, Cursive;
   font-size: 1.45em;
   color: #000000;
 }
