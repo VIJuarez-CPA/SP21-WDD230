@@ -86,3 +86,6 @@ a:hover {
   object-fit: contain;
   justify-content: right;
 }
+img:hover{
+transform: scale(2);
+}
