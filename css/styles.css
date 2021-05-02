@@ -86,7 +86,7 @@ a:hover {
   justify-content: right;
 }
 img:hover{
-transform: scale(2);
+transform: scale(1.75);
 }
 
 #paragraph-2{
@@ -100,6 +100,7 @@ transform: scale(2);
 
 #paragraph-2 img{
   float: left;
+  margin-left:2.25em;
   width: 200px;
   height: 300px;
   object-fit: contain;
