@@ -106,3 +106,19 @@ transform: scale(1.75);
   object-fit: contain;
   justify-content: left;
 }
+#paragraph-3{
+  border: 1px solid #81bbbd;
+  padding: .5rem;
+  background-color: #d7ceb2;
+  border-radius: 10px;
+  box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.15);
+  height: 500px;
+}
+
+#paragraph-3 img{
+  float: right;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  justify-content: right;
+}
